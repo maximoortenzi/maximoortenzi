@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola 👋
 
-<!--
-**maximoortenzi/maximoortenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy Máximo Ortenzi. Estudio en la **Universidad Austral de Rosario** y me estoy orientando a la **ciencia de datos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué estoy aprendiendo
+
+- Análisis y visualización de datos
+- Estadística aplicada
+- Programación para ciencia de datos
+
+## Herramientas que manejo
+
+- **R**
+- **Python**
+- **Markdown**
+
+## Me interesa
+
+- Transformar datos en información útil
+- Proyectos de análisis de datos
+- Seguir aprendiendo cada día
+
+## Contacto
+
+- 📧 maximo.ortenzi@gmail.com
+- 📱 +54 9 341 559 2812
