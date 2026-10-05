@@ -12,9 +12,11 @@ Soy Máximo Ortenzi. Estudio en la **Universidad Austral de Rosario** y me estoy
 
 ## Herramientas que manejo
 
-- **R**
-- **Python**
-- **Markdown**
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## Me interesa
 
